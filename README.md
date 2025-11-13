@@ -24,5 +24,3 @@ A simplified console-based library management system built with Python OOP conce
 ### Book Search and Availability
 - Search books by title, author, or genre
 - View availability status (available/total copies) for each book
-
-## Project Structure
